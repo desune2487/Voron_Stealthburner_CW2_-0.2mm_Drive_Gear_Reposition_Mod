@@ -6,4 +6,4 @@ Explanation of images:
 
 CW2_20220928.png is the original Clockwork2 gear placement as of 20220928.
 
-CW2_DX_mod.png is the -0.2mm gear placement of this mod.
+CW2_DX_mod.png is the result of a -0.2mm gear adjustment of this mod.
